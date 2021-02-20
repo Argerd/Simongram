@@ -7,6 +7,7 @@ import com.argerd.simongram.login.LoginFragment
 class MainActivity : AppCompatActivity(R.layout.activity_main) {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         supportFragmentManager
             .beginTransaction()
             .addToBackStack(null)
