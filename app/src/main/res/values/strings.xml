@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Simongram</string>
+    <string name="api_id">cbd7e6a5290c6bd2f2fa89d19f595e4c</string>
+    <string name="api_hash">cbd7e6a5290c6bd2f2fa89d19f595e4c</string>
 
     <string name="plus">+</string>
 </resources>

@@ -6,3 +6,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Simongram"
 include ':app'
+include ':libtd'
